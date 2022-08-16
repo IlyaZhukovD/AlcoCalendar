@@ -32,6 +32,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
         public TextView getTextView()
         {
             String none = "none";
+            String jopa  = " fig jopa";
             return textView;
         }
     }
