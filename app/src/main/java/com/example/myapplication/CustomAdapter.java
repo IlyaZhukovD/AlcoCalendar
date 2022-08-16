@@ -31,6 +31,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
 
         public TextView getTextView()
         {
+            String popa = "popa";
             String none = "none";
             return textView;
         }
