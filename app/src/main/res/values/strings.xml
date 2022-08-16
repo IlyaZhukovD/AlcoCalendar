@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pefemif">Pefemif</string>
+    <string name="write_here_something">write here something</string>
+    <string name="you_drink_ar_this_day">Вы выпили в этот день:</string>
+    <string name="add_drink">Добавить напиток</string>
+    <string name="write_here_new_drink">Введите новый напиток</string>
+</resources>
